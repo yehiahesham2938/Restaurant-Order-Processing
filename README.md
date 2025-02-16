@@ -22,7 +22,7 @@ How to Run
 
 To execute the program, use the following command:
 
-go run main.go
+``` go run main.go ```
 
 This will first run the sequential method and then the concurrent method, displaying the time taken for each.
 
